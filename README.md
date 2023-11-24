@@ -1,7 +1,7 @@
 # advent-of-code-2023
 
 Template for [Advent Of Code](https://adventofcode.com) typescript solutions with node.js.
-use `nvm install` for dependencies installation.
+use `npm install` for dependencies installation.
 
 To create template for *day N* solution simply copy `Day-00` folder content to new `Day-N` folder, change `DAY_NUMBER` value in index.ts to *N*, change , and put given input and test data into corresponding files - `input.txt`, `testA.txt`, `testB.txt`(if applicable).
 
